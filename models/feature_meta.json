@@ -1,0 +1,1 @@
+{"x_shape": [404290, 6207], "embedding_dim": 100, "tfidf_max_features": 3000, "ngram_range": [1, 2], "numeric_feature_count": 7}
