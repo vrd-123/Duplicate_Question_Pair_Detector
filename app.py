@@ -73,7 +73,7 @@ def tfidf_weighted_avg(text: str, w2v_model, index_to_idf: dict, emb_dim: int) -
 
 def main():
 	st.set_page_config(page_title="Quora Duplicate Question Detector", page_icon="❓")
-	st.title("Quora Duplicate Question Detector")
+	st.title("Duplicate Question Detector")
 	st.write("Enter two questions to check if they are duplicates.")
 
 	load_nltk()
